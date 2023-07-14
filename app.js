@@ -93,6 +93,5 @@ function calcResult(userOption, machineOption) {
 
         if (machineOption === ROCK) return LOST;
         if (machineOption === PAPER) return WIN;
-
     }
 }

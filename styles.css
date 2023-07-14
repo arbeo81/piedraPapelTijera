@@ -16,8 +16,8 @@ footer a{
 }
 
 button{
-    background-color: #ffe97d;
-    border: 4px solid black;
+    background-color: #76bb35;
+    border: 4px solid #477c15;
     margin: 5px;
 }
 
@@ -26,11 +26,11 @@ button{
     height: 100vh;
     max-height: 745px;
     margin: 0 auto;
-    background-color: #ffb74d;
+    background-color: #76bb358e;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    border: 5px solid black;
+    border: 5px solid #477c15;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
 }
 
